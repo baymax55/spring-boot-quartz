@@ -1,9 +1,9 @@
 # spring-boot-quartz
 
-本示例不是最佳实践，最佳实践请转移到：<a href="https://gitee.com/youzhibing/spring-boot-2.0.3/tree/master/spring-boot-quartz-plus" target="_blank">spring-boot-quartz-plus</a>
-###登录页：
+本示例不是最佳实践，最佳实践请转移到：[spring-boot-quartz-plus](https://gitee.com/youzhibing/spring-boot-2.0.3/tree/master/spring-boot-quartz-plus")  
+###登录页
     http://localhost:9001/quartz/login.shtml
-    假的，登录效果没有实现，用户名密码无需输入，直接点登录就会跳转主页
+    假的，登录效果没有实现，用户名密码无需输入，直接点登录就会跳转主页  
 ###主页：
     http://localhost:9001/quartz/main.shtml
     不从登录页跳转，直接访问主页也是可以的
